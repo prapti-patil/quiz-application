@@ -43,8 +43,8 @@ quiz-application/
 └── README.md
 
 ▶️ How to Run
-1. Install Python
 
+1. Install Python
 Make sure Python is installed on your computer.
 
 2. Download or clone the repository
@@ -57,6 +57,7 @@ python quiz.py
 The quiz window will open on your desktop.
 
 🎮 How to Use
+
 Start the application.
 Read the displayed question.
 Select one of the four options.
@@ -64,6 +65,7 @@ Click Next Question.
 Continue until all questions are completed.
 View your final score and percentage.
 Use Restart Quiz to start again.
+
 🧠 Quiz Logic
 
 The application loads questions from mcqs.py and randomly shuffles
@@ -76,7 +78,9 @@ Selected answer
 Correct answers
 Total score
 Completion percentage
+
 🔮 Future Improvements
+
 Add different quiz categories
 Add difficulty levels
 Add a timer for each question
@@ -84,10 +88,10 @@ Store high scores
 Add a leaderboard
 Add more question sets
 Improve the graphical interface
+
 👩‍💻 Author
 
 Prapti Patil
-
 Computer Engineering Student | Aspiring Software Developer
 
 GitHub: https://github.com/prapti-patil
