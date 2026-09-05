@@ -9,6 +9,10 @@ to answer multiple-choice questions and track their score.
 
 Questions are randomly shuffled each time the quiz starts or restarts.
 
+## 🖥️ Application Preview
+
+![Quiz Application](quiz-preview.png)
+
 ## ✨ Features
 
 - 🐍 Python-based quiz application
